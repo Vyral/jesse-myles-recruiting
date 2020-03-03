@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Harker Heights Careers
 permalink: /join-our-team/
 ---
 
@@ -17,37 +17,47 @@ permalink: /join-our-team/
 
 <p>Dear Real Estate Agent,</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
-<ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
-</ul></p>
+<p>Are you a brand-new agent, or one who’s averaging fewer than 12 deals a year? Or are you simply not happy with your current broker?</p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>If you’re struggling in this business, it’s because you’re not getting enough support, training, and leads. And guess what? You’re not alone: <strong>Less than 50,000 agents are successful after their first year.</strong> They spend time and money trying to find ways to generate leads and look for training wherever they can find it.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>What keeps them up at 3 a.m. each night is wondering how they’ll fill their pipelines, because if they can’t do it, they won’t make it past their first year in the business. </p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Fortunately, I have a solution to ensure you won’t become a former agent. </p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>My name is Jesse Myles, and I created a team with processes, training, and lead generation tools already in place. I’m inviting you to join this team and be a part of a producing organization. We have the backing and support of Keller Williams and the hands-on atmosphere of a small organization with a daily team structure. </p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>We bring agents on board who want to be part of a close-knit team, and we provide the tools and infrastructure they need to succeed. If an agent who joins us is willing to put in the work, they will flourish.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>The biggest benefit of joining our team is that <strong>we have seasoned agents and team leads to assist with questions and concerns, as well as provide support and guidance.</strong> On top of that, our agents still run their own business as independent contractors. </p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>Of course, there are always alternatives to this solution. You can work for a broker who gives you 100% of their commission, but you’ll be responsible for all lead sourcing and financing your marketing and business needs. You can also become a broker and start your own company, but that requires a minimum of five years’ experience as an agent. If nothing else, you can leave the industry altogether.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>If you’re still unsure whether our solution would work for you, consider the success stories of the agents on our team. One of our most recent additions sold 12 homes in their first year and parlayed that immediate success into a role as operations manager and mentor to the rest of the team. Another one of our agents became so successful that she went on to open her own brokerage.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>If you want to have the same success, I invite you to join my team for a 90-day trial period to see whether you’re a good fit or not. Once this period is over, if you’re happy and contributing to the team, we’ll ask you to stay on board. If you’re not happy, you’re free to go. No hard feelings. </p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>If you take me up on this offer, we’ll set up a training schedule to teach you how to use the tools we provide. Then we’ll have you start calling leads so you can get comfortable being on the phone. We’ll also have you shadow a seasoned agent. Once you’ve reached 1,000 dials, we’ll turn on your lead flow, which provides you with leads generated from our marketing tools. After that, we’ll give you the necessary support and guidance while you cultivate, nurture, and convert your leads.</p>
+
+<p><strong>If you follow our systems and training, I guarantee you’ll make $100,000 in your first year. </strong></p>
+
+<p>The choice is yours: You can continue doing what you’re doing and getting the same results that are forcing you to seek alternatives, or you can join us and begin seeing real results. Most agents, whether they’re new or looking to restart their careers, struggle with making an important decision in their career. That decision is whether to join a large company with name recognition, training, and the latest technology, or a smaller boutique brokerage that offers more hands-on help and involves a greater personal financial investment. We offer the best of both worlds.</p>
+
+<p>So what are you waiting for? Reach out to me today and let us help you take the first step toward a successful career. </p>
+
+<p>I hope to hear from you soon. </p>
+
+<p>Jesse Myles</p>
+
+
+<p>P.S. Here are some answers to the most commonly asked questions I receive about working here... </p>
+
+<p><strong>1. What is the split?</strong> The split is 50/50, which includes all marketing, lead generation, coverage of listing expenses, office space, and E&O insurance.</p>
+
+<p><strong>2. How do I receive leads?</strong> Leads are provided in round-robin fashion to agents using the marketing sites we have in place. </p>
+
+<p><strong>3. Which expenses am I responsible for?</strong> All marketing, signage, photography, and other listing expenses are paid for by the team lead. </p>
 
 
 
