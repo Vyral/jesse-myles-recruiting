@@ -9,6 +9,8 @@ custom_links:
     url: http://jessemyles.eventbrite.com/
   - title: Free Strategy Call
     url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe
 client:
   name: Jesse Myles
   title:
