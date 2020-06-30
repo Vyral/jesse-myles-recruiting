@@ -16,7 +16,8 @@ youtube_code: xarUMuLH27E
 
 {% include youtube.html %}
 
-Our team is growing, and we want members who have these three things.
+ <p style="text-align: center;"><em>
+Our team is growing, and we want members who have these three things.</em></p>
 
 When I’m looking to hire another team member to join me, I’m looking for three characteristics above all. **I want to hire people who are hungry, humble, and smart.** Those make the perfect team.
 
