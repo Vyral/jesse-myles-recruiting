@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Am I Looking for in Future Team Members?'
-date: 2020-06-30 19:40:34
+date: 2020-06-30 19:40:00
 tags:
 excerpt: 'Our team is growing, and we want members who have these three things.'
 enclosure: >-
@@ -11,13 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xarUMuLH27E
+youtube_code: HDTdnTV_6LE
 ---
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Our team is growing, and we want members who have these three things.</em></p>
+*Our team is growing, and we want members who have these three things.*
 
 When I’m looking to hire another team member to join me, I’m looking for three characteristics above all. **I want to hire people who are hungry, humble, and smart.** Those make the perfect team.
 
