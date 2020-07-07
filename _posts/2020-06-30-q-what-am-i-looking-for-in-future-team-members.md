@@ -18,7 +18,7 @@ youtube_code: HDTdnTV_6LE
 
 *Our team is growing, and we want members who have these three things.*
 
-When I’m looking to hire another team member to join me, I’m looking for three characteristics above all. **I want to hire people who are hungry, humble, and smart.** Those make the perfect team.
+When I’m looking to hire another team member to join me, I’m looking for three characteristics above all. **I want to hire people who are hungry, humble, and smart.** Those qualities make the perfect team.
 
 **If someone is humble, they don’t think less of themselves—they think of themselves less.** A humble team member is focused on helping others and not their personal success. They’re there to help the team rise together as a whole.
 
@@ -26,6 +26,6 @@ When I’m looking to hire another team member to join me, I’m looking for thr
 
 {% include pullquote.html %}
 
-Finally, being smart isn’t necessarily being booksmart. **It’s about being emotionally smart.** Team members who are smart know how to interact with their team and build them up to have greater success in the future.
+Finally, being smart isn’t necessarily being book smart. **It’s about being emotionally smart.** Team members who are smart know how to interact with their team and build them up to have greater success in the future.
 
-If you consider yourself hungry, humble, and smart and you’re interested in what a career in real estate might look like, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon
+If you consider yourself hungry, humble, and smart and you’re interested in what a career in real estate might look like, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
