@@ -59,7 +59,7 @@ permalink: /join-our-team/
 
 <p><strong>3. Which expenses am I responsible for?</strong> All marketing, signage, photography, and other listing expenses are paid for by the team lead. </p>
 
-
+<div data-paperform-id="realestatejob-myles"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
 
