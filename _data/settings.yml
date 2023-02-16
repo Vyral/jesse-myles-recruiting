@@ -88,10 +88,10 @@ podcast:
   author: Jesse Myles
 images:
   client_headshot_path: /img/headshot.jpg
+  hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Harker Heights Real Estate Video Blog
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
