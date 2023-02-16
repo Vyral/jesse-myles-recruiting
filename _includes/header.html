@@ -1,3 +1,13 @@
 <header id="hero">
 <div class="hero-img" style="background-image: url({{site.data.settings.images.hero_image_path}}); background-color: {{site.data.settings.images.hero_background_hex}}">
 </header>
+
+<div class="carousel-container container-fluid no-gutter">
+    <div id="header-carousel" class="owl-carousel">
+        {% for item in site.data.settings.carousel-slider %}
+        <div class="item">
+            <img src="{{ item.image-path }}" alt="{{ item.alt }}" class="img-responsive"/>
+        </div>
+        {% endfor %}
+    </div>
+</div>

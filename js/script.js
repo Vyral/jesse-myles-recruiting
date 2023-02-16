@@ -91,17 +91,62 @@ $(document).ready(function() {
 
 
 	  var owl = $("#owl-carousel");
+    var headerCarousel = $("#header-carousel");
 
-	  owl.owlCarousel({
-	      items : 2, //10 items above 1000px browser width
-	      itemsDesktop : [1000,1], //5 items between 1000px and 901px
-	      itemsDesktopSmall : [900,1], // betweem 900px and 601px
-	      itemsTablet: [600,1], //2 items between 600 and 0
-	      itemsMobile : false, // itemsMobile disabled - inherit from itemsTablet option
-				autoPlay: true,
-				stopOnHover: true,
-				navigationText: true
-	  });
+    headerCarousel.owlCarousel({
+      // loop: true,
+      item: 4,
+      autoplay: 2000,
+      autoplay: true,
+      responsiveClass: true,
+      autoplayHoverPause: true,
+      nav: false,
+      responsive:{
+          0:{
+              items:1,
+          },
+          600:{
+              items:2,
+          },
+          1000:{
+              items:2,
+          },
+          1280:{
+            items: 3,
+          },
+          1366:{
+            items: 3
+          },
+          1440:{
+            items: 3
+          },
+          1920:{
+            items: 4
+          }
+      }
+    })
+    
+
+    owl.owlCarousel({
+      items: 2,
+      loop: true,
+      margin:10,
+      autoplay: true,
+      responsiveClass: true,
+      autoplayHoverPause: true,
+      nav: true,
+      responsive:{
+          0:{
+              items:1,
+          },
+          600:{
+              items:1,
+          },
+          1000:{
+              items:1,
+          }
+      }
+    })
 
 	  // Custom Navigation Events
 	  $(".next").click(function(){
@@ -116,7 +161,6 @@ $(document).ready(function() {
 	  $(".stop").click(function(){
 	    owl.trigger('owl.stop');
 	  })
-
 //toggle trancated testimonials to expand
 $('.item-toggle').on('click', function(event){
 	 var $this = $(this)

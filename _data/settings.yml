@@ -110,3 +110,41 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
+
+carousel-slider:
+  - id: 1
+    image-path: /img/slider-item/item1.jpg
+    alt: slider 1
+  - id: 2
+    image-path: /img/slider-item/item2.jpg
+    alt: slider 2
+  - id: 3
+    image-path: /img/slider-item/item3.jpg
+    alt: slider 3
+  - id: 4
+    image-path: /img/slider-item/item4.jpg
+    alt: slider 4
+  - id: 5
+    image-path: /img/slider-item/item5.jpg
+    alt: slider 5
+  - id: 6
+    image-path: /img/slider-item/item6.jpg
+    alt: slider 6
+  - id: 7
+    image-path: /img/slider-item/item7.jpg
+    alt: slider 7
+  - id: 8
+    image-path: /img/slider-item/item8.jpg
+    alt: slider 8
+  - id: 9
+    image-path: /img/slider-item/item9.jpg
+    alt: slider 9
+  - id: 10
+    image-path: /img/slider-item/item10.jpg
+    alt: slider 10
+  - id: 11
+    image-path: /img/slider-item/item11.jpg
+    alt: slider 11
+  - id: 12
+    image-path: /img/slider-item/item12.jpg
+    alt: slider 12
