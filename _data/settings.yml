@@ -91,7 +91,7 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Harker Heights Real Estate Video Blog
-  hero_background_hex: '#999999'
+
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
