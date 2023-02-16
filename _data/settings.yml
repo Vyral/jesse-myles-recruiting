@@ -1,4 +1,4 @@
-audit_header: false
+hewaudit_header: false
 title: Harker Heights's Best Real Estate Training
 description: >-
   Jesse Myles, a top Real Estate Agent in Harker Heights, shares his own
@@ -88,12 +88,7 @@ podcast:
   author: Jesse Myles
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: Harker Heights Real Estate Video Blog
-  hero_image_path: /img/background.jpg
-  hero_background_hex: '#999999'
-  post_cover: /img/cover.jpg
+
 site_colors:
   brand_color: '#b40101'
   theme_color: '#999'
