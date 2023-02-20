@@ -18,7 +18,7 @@ client:
   name: Jesse Myles
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     The Myles Group is comprised of a team of local real estate professionals
     committed to selling some of the most desired homes in Greater Fort Hood.
     Selling these “right addresses” is the mission of The Myles Group. Let us
@@ -30,7 +30,7 @@ client:
   brand: The Myles Group
   brokerage:
   address: 2700 South Fort Hood Street Killeen, TX 76542
-  phone: 254 535 8792
+  phone: 254-535-8792
   phone_type:
   phone2:
   phone2_type:
