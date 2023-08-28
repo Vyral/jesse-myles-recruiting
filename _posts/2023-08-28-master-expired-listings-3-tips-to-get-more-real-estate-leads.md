@@ -28,5 +28,3 @@ Are you taking full advantage of expired listings? Many real estate agents donâ€
 At the end of the day, expired listings are a great way to grow your business and thrive in this real estate market. As always, donâ€™t hesitate to call or email with any questions. Make it a great day!
 
 {% include full-post-cta.html %}
-
-{% include full-post-cta.html %}
