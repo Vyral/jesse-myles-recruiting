@@ -26,10 +26,6 @@ I’ve been asked this question a lot recently, and I understand why. The curren
 
 As a real estate agent, your most powerful tool is your database. If you aren’t leveraging people you’ve already met, you probably aren’t maximizing your business potential. That’s why I recommend looking into an app or marketing service that pulls leads from people you’ve already met. There are plenty of options that fit every budget, but I don’t recommend trying to market to your database by yourself. It can be time-consuming, and your hours are probably better spent actually following up with leads and managing transactions. If you have questions about which service might be best for you, just reach out to discuss it further.
 
-&nbsp;
-
-{% include excerpt.html %}
-
 **Key Point \#2 Seller seminars.**
 
 I love seller seminars because they have minimal costs and bring in high-quality leads. Here’s how they work: Invite people from your database and farm to attend a free seminar all about selling their homes. If you don’t have time to set a seminar up in person, you can even do this over Zoom or a similar service. You instantly build trust with the attendees by giving away all this valuable information for free. In other words, you position yourself as a reliable expert who knows what they’re doing. Some of the attendees might just go ahead and sell their homes themselves, but most will see how knowledgeable you are and decide it’s just simpler to work with you. These are some of the most reliable leads you can get, so leverage this strategy if you aren’t already.
