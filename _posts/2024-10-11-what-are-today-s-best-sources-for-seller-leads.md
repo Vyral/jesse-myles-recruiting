@@ -18,7 +18,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/jesse-myles-thumbnail-1.jpg
 youtube_code:
 ---
-{% include youtube.html %}
+&nbsp;
 
 I’ve been asked this question a lot recently, and I understand why. The current market has fewer transactions than it previously did, so you might need to put in a little more effort to maintain your level of business. At the same time, many agents who used to work primarily with buyers are looking to expand into seller leads in the wake of the NAR lawsuit. Whatever your situation is, don’t worry. There are still plenty of seller leads in this market; you just need to know where to find them. Here are my three favorite ways to find seller leads in this market without breaking the bank
 
