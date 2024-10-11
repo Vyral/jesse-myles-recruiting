@@ -18,7 +18,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/jesse-myles-thumbnail-1.jpg
 youtube_code:
 ---
-&nbsp;
+&nbsp;{% include excerpt.html %}
 
 I’ve been asked this question a lot recently, and I understand why. The current market has fewer transactions than it previously did, so you might need to put in a little more effort to maintain your level of business. At the same time, many agents who used to work primarily with buyers are looking to expand into seller leads in the wake of the NAR lawsuit. Whatever your situation is, don’t worry. There are still plenty of seller leads in this market; you just need to know where to find them. Here are my three favorite ways to find seller leads in this market without breaking the bank
 
@@ -29,6 +29,8 @@ As a real estate agent, your most powerful tool is your database. If you aren’
 **Key Point \#2 Seller seminars.**
 
 I love seller seminars because they have minimal costs and bring in high-quality leads. Here’s how they work: Invite people from your database and farm to attend a free seminar all about selling their homes. If you don’t have time to set a seminar up in person, you can even do this over Zoom or a similar service. You instantly build trust with the attendees by giving away all this valuable information for free. In other words, you position yourself as a reliable expert who knows what they’re doing. Some of the attendees might just go ahead and sell their homes themselves, but most will see how knowledgeable you are and decide it’s just simpler to work with you. These are some of the most reliable leads you can get, so leverage this strategy if you aren’t already.
+
+&nbsp;
 
 **Key Point \#3 Underserved markets.**
 
