@@ -30,8 +30,6 @@ As a real estate agent, your most powerful tool is your database. If you aren’
 
 I love seller seminars because they have minimal costs and bring in high-quality leads. Here’s how they work: Invite people from your database and farm to attend a free seminar all about selling their homes. If you don’t have time to set a seminar up in person, you can even do this over Zoom or a similar service. You instantly build trust with the attendees by giving away all this valuable information for free. In other words, you position yourself as a reliable expert who knows what they’re doing. Some of the attendees might just go ahead and sell their homes themselves, but most will see how knowledgeable you are and decide it’s just simpler to work with you. These are some of the most reliable leads you can get, so leverage this strategy if you aren’t already.
 
-&nbsp;
-
 **Key Point \#3 Underserved markets.**
 
 Everyone wants to be a luxury agent thanks to popular TV shows like Netflix’s “Selling” series, where they follow a high-end luxury agent in a well-known and expensive area. However, the luxury market is extremely crowded; you could be the best agent in the world and still struggle to get leads in that niche. Instead, look for underserved markets in your area. For example, older homeowners looking to downsize or move into assisted living facilities are chronically underserved in most areas. That being said, no two markets are the same - what’s rare in your area could be a booming demographic in another. Do a little research and see which area seems ripe for you to break into.
