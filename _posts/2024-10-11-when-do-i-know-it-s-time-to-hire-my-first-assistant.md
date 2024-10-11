@@ -19,13 +19,11 @@ youtube_code:
 ---
 {% include excerpt.html %}
 
-{% include pullquote.html %}
-
 Are you using your time as efficiently as possible? Most agents can’t honestly answer “yes”. The truth is that once you separate yourself from the pack of average agents, your time is probably best spent on money-making activities, not busy work. The obvious solution to the problem might seem to be to hire full-time help; but is that really the answer? Full-time hires are a guaranteed cost for your business that are hard to get rid of. Do you really need someone to help you around the clock, or do you just need a little leverage? To help you find the answer, here are three things you should ask yourself:
 
 **1\. Do you have enough leverage?** You don’t need to hire full-time help to give yourself more time. For example, you can leverage gig workers and part-time services to free up time without committing to a fixed cost. You can hire someone to pick up your groceries for you, clean your car, and take care of other busywork activities not necessarily related to real estate so you have more time to follow up on transactions.
 
-{% include full-post-cta.html %}
+{% include pullquote.html %}
 
 **2\. Is busywork costing you money?** If you could quantify your hourly rate as a real estate agent, what would it be? For established real estate agents, that number is probably a lot higher than the cost of hiring an assistant. Busywork can eat up a ton of your time, and the more transactions you have, the worse this problem gets. Hiring an assistant can help you manage busywork and free up time for more transactions, but it isn’t the only way to increase your income. Instead of increasing your transactions, you could put effort into increasing the amount of profit you make on each sale.
 
@@ -33,6 +31,6 @@ Are you using your time as efficiently as possible? Most agents can’t honestly
 
 If you’re looking for a mentor to help you leverage your time and make more money, please call or email me. My team provides necessary tools to teach you how to get the most out of your business. Plus, we have full-time back-of-house support staff ready to back you up. I look forward to hearing from you!
 
-&nbsp;
+{% include full-post-cta.html %}
 
 &nbsp;
