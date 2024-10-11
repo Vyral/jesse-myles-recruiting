@@ -6,7 +6,9 @@ tags:
   - real estate
   - exercitation
   - assistants
-excerpt:
+excerpt: >-
+  When busywork starts dominating your business, ask yourself these three
+  questions to find out if you need to hire your first assistant. 
 enclosure:
 pullquote: Do you need an assistant, or a mentor?
 enclosure_type: video/mp4
