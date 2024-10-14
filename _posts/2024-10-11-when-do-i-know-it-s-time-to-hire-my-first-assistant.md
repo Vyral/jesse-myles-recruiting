@@ -29,7 +29,7 @@ Are you using your time as efficiently as possible? Most agents can’t honestly
 
 **3\. Is your problem lack of time or lack of experience?** Right now, it might feel like you’re totally overwhelmed, but the issue could be that you just don’t know how to efficiently manage your tasks. This question isn’t meant to be a dig on your business; instead, I just want you to honestly ask yourself if you have the tools to be as efficient as possible. In my experience, most agents need to learn how to run things from another experienced agent. In other words, they don’t need an assistant - they need a mentor.
 
-If you’re looking for a mentor to help you leverage your time and make more money, please call me at **254-535-8792** or email me at [killeen.mylesgrouprealestate.com](mailto:killeen.mylesgrouprealestate.com){: target="_blank" rel="noopener"}. My team provides necessary tools to teach you how to get the most out of your business. Plus, we have full-time back-of-house support staff ready to back you up. I look forward to hearing from you!
+If you’re looking for a mentor to help you leverage your time and make more money, please call me at [**254-535-8792**](:2545358792) or email me at [jesse@themylesgroup.net](mailto:jesse@themylesgroup.net). My team provides necessary tools to teach you how to get the most out of your business. Plus, we have full-time back-of-house support staff ready to back you up. I look forward to hearing from you!
 
 {% include full-post-cta.html %}
 
