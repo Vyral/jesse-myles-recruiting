@@ -21,8 +21,6 @@ youtube_code:
 ---
 {% include excerpt.html %}
 
-
-
 If you’re like most real estate agents, you probably dread the thought of calling up an expired listing for an appointment. These are sellers who just experienced a major setback, and they’re probably getting flooded with calls from agents using smarmy scripts to take advantage of their situation. The last thing they want is another call from someone looking to sell their house, right? Unfortunately, while the housing market is set to bounce back a bit in 2025, there’s no denying that leads are harder to come by these days. You might not like it, but you might have to turn to expired listings to increase your bottom line.
 
 The good news is that when everyone else is running a predatory playbook, you have a lane open to stand out as the helpful, knowledgeable expert. That’s why today, I’m sharing three tips to help you call expired listings, turn them into appointments, and get more business:
