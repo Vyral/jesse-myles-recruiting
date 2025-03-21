@@ -21,8 +21,6 @@ youtube_code:
 ---
 {% include excerpt.html %}
 
-Dear friends and clients,
-
 Spring is coming, and with it, the busiest real estate season of the year. But will your sphere be working for you? If you want consistent, high-quality referrals, you need a system for staying top-of-mind. Today, I’m sharing three simple yet powerful ways to stay connected, add value, and make sure your name is the first one people think of when they hear, ‘I’m thinking of buying or selling.
 
 **1\. Leverage the spring market boom.** Spring is the real estate power season. Based on historical data from NAR, home sales typically increase by over 30% between March and June, and prices can rise by 3% to 5%, depending on the market. More transactions mean more opportunities for you—but only if your sphere knows how active the market is. Keep them informed by sending quick market updates, price trends, and “just sold” stories to maintain their interest. Use the “Fear of Missing Out” or FOMO to your advantage by reminding them that buyers are out in full force, making now the perfect time to make a move. The more engaged your sphere is, the more referrals they’ll send your way.
