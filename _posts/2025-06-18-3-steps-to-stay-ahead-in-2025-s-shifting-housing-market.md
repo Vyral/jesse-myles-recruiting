@@ -23,13 +23,13 @@ youtube_code:
 
 &nbsp;
 
-The real estate market is evolving rapidly, and if you're not ready to adjust, you could easily fall behind. But don’t worry—I’m here to help you stay competitive and make 2025 your best year yet. The key to thriving in this market is focusing on three crucial steps that will help you secure more clients, get paid what you deserve, and grow your business.
+The real estate market is evolving rapidly, and if you’re not ready to adjust, you could easily fall behind. But don’t worry—I’m here to help you stay competitive and make 2025 your best year yet. The key to thriving in this market is focusing on three crucial steps that will help you secure more clients, get paid what you deserve, and grow your business.
 
-**1\. Prequalify buyers like a pro.** The first step to success is prequalifying your buyers right from the start. Too often, agents waste time showing homes to buyers who aren’t serious or ready to buy. By prequalifying, you can quickly understand your buyers' needs, budget, and motivations.
+**1\. Prequalify buyers like a pro.** The first step to success is prequalifying your buyers right from the start. Too often, agents waste time showing homes to buyers who aren’t serious or ready to buy. By prequalifying, you can quickly understand your buyers’ needs, budget, and motivations.
 
-One method I swear by is the LPMAMA script. It stands for Location, Price, Motivation, Agreement, Mortgage, and Appointment. Using this simple framework, you can gather the right information upfront, avoid wasting time, and ensure you're working with serious, qualified buyers. It’s a game-changer that helps you get on the right path from the beginning.
+One method I swear by is the LPMAMA script. It stands for Location, Price, Motivation, Agreement, Mortgage, and Appointment. Using this simple framework, you can gather the right information upfront, avoid wasting time, and ensure you’re working with serious, qualified buyers. It’s a game-changer that helps you get on the right path from the beginning.
 
-**2\. Secure the buyer’s agency agreement.** Once you've prequalified your buyers, the next step is to secure the buyer’s agency agreement. This agreement is essential—it makes everything official and sets clear expectations about your services and how you’ll be compensated.
+**2\. Secure the buyer’s agency agreement.** Once you’ve prequalified your buyers, the next step is to secure the buyer’s agency agreement. This agreement is essential—it makes everything official and sets clear expectations about your services and how you’ll be compensated.
 
 This agreement not only protects your hard work but also ensures that you’re the exclusive agent representing the buyer. In today’s competitive market, securing this agreement early is crucial. It keeps you in control and ensures you don’t miss out on potential earnings. When both you and your clients are on the same page from the start, it sets the stage for a smooth, successful partnership.
 
