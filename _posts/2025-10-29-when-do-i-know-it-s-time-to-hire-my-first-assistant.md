@@ -20,8 +20,6 @@ youtube_alternate_image: >-
   /uploads/jesse-myles-rec-when-do-i-know-it-s-time-to-hire-my-first-assistant.png
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 One of the most common (and most important) questions I hear from agents is: “When do I know it’s time to hire my first assistant?” It’s a significant leap. If you hire prematurely, you might strain your finances. But if you wait too long, you’ll miss opportunities and eventually burn out. The key is to look for specific, tangible signs in your business.
