@@ -4,8 +4,12 @@ title: How Do I Set Up My CRM To Manage My Contacts?
 date: 2025-11-20 00:00:00
 tags:
   - Real Estate
-excerpt: How Do I Set Up My CRM To Manage My Contacts?
-enclosure: How Do I Set Up My CRM To Manage My Contacts?
+excerpt: >-
+  Stop drowning in contacts. Here’s a five-step setup that will transform your
+  database from chaotic to conversion-ready.
+enclosure: >-
+  Stop drowning in contacts. Here’s a five-step setup that will transform your
+  database from chaotic to conversion-ready.
 pullquote: >-
   Your CRM isn’t just a digital address book; it's the central nervous system of
   your business.
